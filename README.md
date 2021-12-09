@@ -22,7 +22,7 @@ pip install langdetect
 
 ![img mb](img_demo/01.png)
 
-##### Một số ảnh Demo:
+### Một số ảnh Demo:
 
 ![img mb](img_demo/02.png)
 ![img mb](img_demo/03.png)
