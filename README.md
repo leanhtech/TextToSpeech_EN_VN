@@ -6,7 +6,7 @@
 
 #### Trong bài làm có 1 số module, thư viện không có sẵn cần cài thêm:
 
-*Nếu Linux thì chạy lệnh này trước khi chạy bên dưới trên terminal :*   ```sudo apt update && sudo apt install espeak ffmpeg libespeak1```
+*Nếu Linux(Ubuntu) thì chạy lệnh này trước khi chạy bên dưới trên terminal :*   ```sudo apt update && sudo apt install espeak ffmpeg libespeak1```
 ```
 pip install tk
 pip install playsound
@@ -14,6 +14,9 @@ pip install gTTS
 pip install urllib
 pip install langdetect
 ```
+**Sinh Viên Thực Hiện : Lê Hoàng Anh**
+
+**MSSV : N19DCCN005**
 
 ##### Chú ý : **Nếu là Windown thì phải cài voice hoặc cả ngôn ngữ tiếng Việt (trong setting - time and language) trước rồi chạy file VoiceVI.reg kèm theo (trong thư mục File REG).** Dưới đây là ảnh demo cài voice tiếng Việt trên Windown 10:
 
